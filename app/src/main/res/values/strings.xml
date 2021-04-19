@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="salvar">Salvar</string>
+    <string name="editar">Editar</string>
+    <string name="voltar">Voltar</string>
+    <string name="apagar">apagar</string>
+    <string name="sair">Sair</string>
+
+    <string name="primeiro">1</string>
+    <string name="segundo">2</string>
+    <string name="terceiro">3</string>
+    <string name="quarto">4</string>
+    <string name="quinto">5</string>
+</resources>

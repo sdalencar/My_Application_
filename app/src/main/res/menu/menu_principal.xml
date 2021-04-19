@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_salvar"
+        android:title="@string/salvar"
+        android:icon="@drawable/ic_salvar"
+        android:orderInCategory="@string/primeiro"
+        app:showAsAction="always"
+    />
+
+    <item
+        android:id="@+id/menu_editar"
+        android:title="@string/editar"
+        android:icon="@drawable/ic_editar"
+        android:orderInCategory="@string/segundo"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/menu_apagar"
+        android:title="@string/apagar"
+        android:icon="@drawable/ic_deletar"
+        android:orderInCategory="@string/terceiro"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/menu_voltar"
+        android:title="@string/voltar"
+        android:icon="@drawable/ic_voltar"
+        android:orderInCategory="@string/quarto"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/menu_sair"
+        android:title="@string/sair"
+        android:icon="@drawable/ic_sair"
+        android:orderInCategory="@string/quinto"
+        app:showAsAction="always"
+        />
+
+
+
+</menu>
